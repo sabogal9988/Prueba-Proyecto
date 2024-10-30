@@ -1,0 +1,1 @@
+<28,> Error sintáctico: se encontró: "1"; se esperaba: Error sintáctico: se encontró ':' sin un identificador válido antes en la línea 28..
